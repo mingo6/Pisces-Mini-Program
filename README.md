@@ -3,6 +3,13 @@
 #### 介绍
 一款通过uniapp开发的基于Typecho博客的小程序源码(目前仅调试微信小程序，和QQ小程序)，界面采用了简单有美观的ColorUI进行构建，取名双鱼，仅仅因为自己是双鱼座。
 
+####演示
+由于小程序需要审核一段时间，所以也打包了h5页面（uniapp果然牛皮），可以作为参考，其中复制的api H5不支持，所以emmmm。
+
+演示站点：[ Pisces-Mini-Program ](http://https://www.anhaowu.com/Pisces/index.html)
+
+
+
 ####说明
 
 这是一款通过uniapp开发的基于Typecho博客的小程序源码(目前仅调试微信小程序，和QQ小程序)，界面采用了简单有美观的ColorUI进行构建，取名双鱼，仅仅因为自己是双鱼座。
