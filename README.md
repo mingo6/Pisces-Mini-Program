@@ -6,7 +6,7 @@
 ####演示
 由于小程序需要审核一段时间，所以也打包了h5页面（uniapp果然牛皮），可以作为参考，其中复制的api H5不支持，所以emmmm。
 
-演示站点：[ Pisces-Mini-Program ](http://https://www.anhaowu.com/Pisces/index.html)
+演示站点：[ Pisces-Mini-Program ](https://www.anhaowu.com/Pisces/index.html)
 
 
 
