@@ -1,16 +1,18 @@
 # Pisces-Mini-Program
 
+![Pisces-Mini-Program](https://images.gitee.com/uploads/images/2020/0222/105713_7c74aab7_1823306.jpeg "Pisces-Mini-Program.jpg")
+
 #### 介绍
 一款通过uniapp开发的基于Typecho博客的小程序源码(目前仅调试微信小程序，和QQ小程序)，界面采用了简单有美观的ColorUI进行构建，取名双鱼，仅仅因为自己是双鱼座。
-
-####演示
+ 
+#### 演示
 由于小程序需要审核一段时间，所以也打包了h5页面（uniapp果然牛皮），可以作为参考，其中复制的api H5不支持，所以emmmm。
 
 演示站点：[ Pisces-Mini-Program ](https://www.anhaowu.com/Pisces/index.html)
 
 
 
-####说明
+#### 说明
 
 这是一款通过uniapp开发的基于Typecho博客的小程序源码(目前仅调试微信小程序，和QQ小程序)，界面采用了简单有美观的ColorUI进行构建，取名双鱼，仅仅因为自己是双鱼座。
 
@@ -20,16 +22,16 @@
 
 本小程序由2020年02月21日正式开源发布，功能简陋，不喜勿喷。
 
-使用文档明天再写！
 
+#### 使用说明
 
+- 首先安装Tyepcho博客程序，不会的可以百度，这里不详细讲了。
 
+- 其次安装Pisces-Mini-Program配套的插件weTypecho,这个插件是根据成都第二帅的[wetypecho](https://2012.pro/index.php/20180806/cid=37.html)修改来的，基于改动不大，所以还是叫做wetypecho，插件的安装也很简单。
 
-#### 码云特技
+- 然后启动插件，填写apisec（这个想写啥就写啥，只要和小程序端一致就行）、微信小程序和QQ小程序的id和key（目前还不需要，因为没有需要登陆的共功能），基本上就可以了，其他的都有介绍。
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5.  码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+- 这次改代主要是基于自定义字符的，也就是typecho文章编辑页下方的自定义字符，你可以在上面添加任何你想要加上的东西，比如头图thumb、描述description等等。（目前仅支持这两个，但是以后会是任意！！！）
+
+- emmm，差不多了吧，还有什么不懂去我博客留言或者在qq群里交流吧。
+
